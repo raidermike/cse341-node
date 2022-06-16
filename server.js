@@ -22,4 +22,3 @@ mongodb.initDb((err, mongodb) => {
   }
 });
 
-
